@@ -1,0 +1,62 @@
+.ant-tabs-nav-list {
+    background-color: rgb(194, 189, 189) !important;
+    color: white;
+    border-radius: 5px;
+
+}
+
+.home {
+    font-size: 45px;
+    margin-left: 350px;
+}
+
+.tab112 {
+    border-width: 5px !important;
+    border-style: groove !important;
+}
+
+.ant-tabs-tab {
+    border-right: black !important;
+    width: 200px;
+}
+
+.site-layout-background {
+    width: 100%;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+.ant-table-filter-trigger {
+    color: #f2efef !important;
+    background: #0d8ae4 !important;
+}
+.ant-table-thead{
+    background-color: blue;
+}
+.ant-table-filter-column-title {
+    color: rgb(10, 10, 10) !important;
+    font-size: 15px !important;
+}
+
+.ant-table-filter-trigger-container {
+    background-color: #0d8ae4 !important;
+} 
+.ant-table table{
+    background-color: rgb(226, 224, 223);
+}
+.headerbaohiem{
+    margin-left: 300px !important;
+    color: white;
+}
+.login-form {
+    max-width: 300px;
+  }
+.login-form-forgot {
+    float: right;
+  }
+.ant-col-rtl .login-form-forgot {
+    float: left;
+  }
+.login-form-button {
+    width: 100%;
+  }
